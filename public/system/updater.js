@@ -9,4 +9,4 @@ socketIO.on(
     function () {
         window.location.reload();
     }
-)
+);
